@@ -2,17 +2,13 @@
 Python scripts used for  2D and 3D materials' Young's Modulus plotting.
 
 # Main Function:
-- 2DAnisotropicElastic.py: plot 2D materials' anisotropic Young's modulus and Poisson's ratio.
+- 2DAnisotropicElastic.py: plot 2D materials' anisotropic Young's modulus and Poisson's ratio.like this:
 
-like this:
+![2dmat](https://www.jun997.xyz/images/vasp2dMech/10.jpg){:width="100px" height="50px"}
 
-![2dmat](https://www.jun997.xyz/images/vasp2dMech/10.jpg =50x50)
+- 3DAnisotropicElastic.py: plot 3D materials' anisotropic Young's modulus.like this:
 
-- 3DAnisotropicElastic.py: plot 3D materials' anisotropic Young's modulus.
-
-like this:
-
-![3dmat](https://www.jun997.xyz/images/vasp2dMech/8.jpg = 50x50)
+![3dmat](https://www.jun997.xyz/images/vasp2dMech/8.jpg){:width="50px" height="50px"}
 
 # Usage
 - The script must be run on a linux system configured with a python3 environment. 
