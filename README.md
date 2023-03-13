@@ -15,6 +15,10 @@ Python scripts used for  2D and 3D materials' Young's Modulus plotting.
 - [Yalameha, S., Z. Nourbakhsh, and D. Vashaee, ElTools: A tool for analyzing anisotropic elastic properties of the 2D and 3D materials. Computer Physics Communications, 2022. 271.](https://www.sciencedirect.com/science/article/abs/pii/S0010465521003076)
 
 ---
-more details go to:[https://www.jun997.xyz/2023/03/09/0311b83de3d4.html](https://www.jun997.xyz/2023/03/09/0311b83de3d4.html) 
+
+more details go to:  [https://www.jun997.xyz/2023/03/09/0311b83de3d4.html](https://www.jun997.xyz/2023/03/09/0311b83de3d4.html) 
+
 ---
 
+
+end
